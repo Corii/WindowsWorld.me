@@ -2,26 +2,8 @@
     width: 100%;
     text-align: center;
     color: #fff;
-    font-family: 'neoSans', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
     background-color: #2C2F33;
-}
-
-@font-face {
-    font-family: 'neoSans';
-    src: url('../fonts/neoSans.eot');
-    src: url('../fonts/neoSans.otf')
-}
-
-@font-face {
-    font-family: 'neoSansLight';
-    src: url('../fonts/neoSansLight.eot');
-    src: url('../fonts/neoSansLight.otf')
-}
-
-@font-face {
-    font-family: 'neoSansBold';
-    src: url('../fonts/neoSansBold.eot');
-    src: url('../fonts/neoSansBold.otf');
 }
 
 a {
